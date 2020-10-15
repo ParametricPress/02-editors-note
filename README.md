@@ -1,4 +1,4 @@
-# Editor's Note
+# Editors' Note
 
 ## Local Setup
 
