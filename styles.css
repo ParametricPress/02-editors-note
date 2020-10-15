@@ -1,0 +1,60 @@
+/* LEDES */
+
+.lede, .lede p {
+  font-family: 'Graphik Web';
+}
+
+.lede-a, .lede-a p {
+  font-size: 32px;
+  line-height: 48px;
+  font-weight: 400;
+}
+
+.lede-b, .lede-b p {
+  font-size: 24px;
+  line-height: 40px;
+}
+
+/* large aside */
+
+.large-aside-container {
+  display: block;
+  position: relative;
+  max-width: calc(100vw - 800px);
+  width: calc(100vw - 800px);
+}
+
+.large-aside-wrapper {
+  position: absolute;
+  left: 0;
+  top: 0;
+  left: 750px;
+  margin-right: 75px;
+}
+
+.large-aside {
+  width: 100%;
+}
+
+.large-aside .parametric-graphic-source {
+  margin-top: 0;
+}
+
+.large-aside .parametric-graphic .parametric-caption {
+  margin-bottom: 1em;
+}
+
+@media all and (max-width: 1000px) {
+  .large-aside-wrapper {
+    margin-left: 0;
+    margin-right: 0;
+    position: static;
+  }
+}
+
+@media all and (max-width: 800px) {
+  .large-aside-container {
+    max-width: calc(100vw - 2em);
+    width: calc(100vw - 2em);
+  }
+}

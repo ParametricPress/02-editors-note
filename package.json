@@ -1,0 +1,26 @@
+{
+  "name": "editors-note",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "idyll --template _local.html",
+    "build": "idyll build --output docs"
+  },
+  "idyll": {
+    "css": "styles.css",
+    "authorView": false,
+    "template": "_index.html",
+    "layout": "./node_modules/parametric-styles/issue-02-theme-dark.css",
+    "theme": "./node_modules/parametric-styles/issue-02-layout.css",
+    "components": [
+      "./components",
+      "./node_modules/parametric-components/dist/cjs/issue-02"
+    ]
+  },
+  "dependencies": {
+    "idyll": "^4.0.7",
+    "idyll-d3-component": "^2.0.0",
+    "parametric-components": "^2.1.26",
+    "parametric-styles": "^2.2.17"
+  }
+}
