@@ -2414,25 +2414,25 @@ input {
 /* LEDES */
 
 body {
-  background: #adadad;
-  color: #222222;
+  /* background: #adadad;
+  color: #222222; */
 }
 
 .idyll-text-container p {
-  color: #222222;
+  /* color: #222222; */
 }
 
 .parametric-article-nav {
-  background-color: #adadad;
+  /* background-color: #adadad;
   border-bottom-color: #222222;
-  color: #222222;
+  color: #222222; */
 }
 
 .parametric-article-nav .parametric-nav-links a {
-  color: #222222;
+  /* color: #222222; */
 }
 .parametric-nav-toc {
-  color: #222222 !important;
+  /* color: #222222 !important; */
 }
 .idyll-text-container p a, aside a, a {
   color: #D8FFA2;
@@ -2451,12 +2451,13 @@ body {
 }
 
 h1, h2, h3, h4, h6 {
-  color: #222222;
+  color: #adadad;
   font-weight: 500;
 }
 h1 {
   font-size: 32px;
   line-height: 48px;
+  color: #D8FFA2;
 }
 
 h2 {
@@ -2520,7 +2521,7 @@ h2, h3, h4, h6 {
 }
 
 .idyll-text-container p a.team-link {
-  color: #222222;
+  color: #adadad;
   text-decoration: none;
 }
 
