@@ -107,13 +107,14 @@ h2, h3, h4, h6 {
   margin-bottom: 1em;
 }
 
-.idyll-text-container p a.team-link {
+.idyll-text-container p a.hidden-link {
   color: #adadad;
   text-decoration: none;
 }
 
-.idyll-text-container p a.team-link:hover {
+.idyll-text-container p a.hidden-link:hover {
   text-decoration: underline;
+  color: #D8FFA2;
 }
 
 
