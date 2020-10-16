@@ -1,12 +1,65 @@
 /* LEDES */
 
+body {
+  background: #adadad;
+  color: #222222;
+}
+
+.idyll-text-container p {
+  color: #222222;
+}
+
+.parametric-article-nav {
+  background-color: #adadad;
+  border-bottom-color: #222222;
+  color: #222222;
+}
+
+.parametric-article-nav .parametric-nav-links a {
+  color: #222222;
+}
+.parametric-nav-toc {
+  color: #222222 !important;
+}
+.idyll-text-container p a, aside a, a {
+  color: #D8FFA2;
+  text-decoration: none;
+}
+.idyll-text-container p a:hover, aside a:hover, a:hover {
+  text-decoration: underline;
+}
 .lede, .lede p {
   font-family: 'Graphik Web';
 }
 
-.lede-a, .lede-a p {
+
+.idyll-text-container {
+  max-width: 640px;
+}
+
+h1, h2, h3, h4, h6 {
+  color: #222222;
+  font-weight: 500;
+}
+h1 {
   font-size: 32px;
   line-height: 48px;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 32px;
+}
+
+h2, h3, h4, h6 {
+  font-family: 'Graphik Web';
+  font-weight: 500;
+  margin-bottom: 0;
+}
+
+.lede-a, .lede-a p {
+  font-size: 24px;
+  line-height: 40px;
   font-weight: 400;
 }
 
@@ -20,8 +73,9 @@
 .large-aside-container {
   display: block;
   position: relative;
-  max-width: calc(100vw - 800px);
-  width: calc(100vw - 800px);
+  /* max-width: calc(100vw - 800px);
+  width: calc(100vw - 800px); */
+  width: 300px;
 }
 
 .large-aside-wrapper {
@@ -30,6 +84,14 @@
   top: 0;
   left: 750px;
   margin-right: 75px;
+  width: 300px;
+  font-family: 'Graphik Web';
+}
+
+.large-aside-wrapper p {
+  font-family: 'Graphik Web';
+  font-size: 16px;
+  line-height: 24px;
 }
 
 .large-aside {
@@ -44,11 +106,29 @@
   margin-bottom: 1em;
 }
 
-@media all and (max-width: 1000px) {
+.idyll-text-container p a.team-link {
+  color: #222222;
+  text-decoration: none;
+}
+
+.idyll-text-container p a.team-link:hover {
+  text-decoration: underline;
+}
+
+
+@media all and (max-width: 1100px) {
+  .desktop {
+    display: none;
+  }
+  .mobile {
+    display: block;
+  }
   .large-aside-wrapper {
     margin-left: 0;
     margin-right: 0;
     position: static;
+    max-width: calc(100vw - 100px);
+    width: calc(100vw - 100px);
   }
 }
 
@@ -58,3 +138,4 @@
     width: calc(100vw - 2em);
   }
 }
+

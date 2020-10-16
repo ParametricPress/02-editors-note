@@ -23,50 +23,65 @@
 //   source:`"https://github.com/ParametricPress/02-" + parametricSlug `
 // /]
 
-# Editors' Note
-
+[desktop]
 [LargeAside]
+
 ## Team
 
-**[a href:"https://mathisonian.com/"]Matthew Conlen[/a]** Editor-in-Chief
-[br/]
-**[a href:"https://fredhohman.com/"]Fred Hohman[/a]** Data, Graphics, Editorial
-[br/]
-**[a href:"http://sarastalla.com/"]Sara Stalla[/a]** UX, Editorial
-[br/]
-**[a href:"https://www.andrewsass.com/"]Andrew Sass[/a]** Art Director
-
+Edited by [a className:"team-link" href:"https://mathisonian.com/"]Matthew Conlen[/a], [a className:"team-link" href:"https://fredhohman.com/"]Fred Hohman[/a], and [a className:"team-link" href:"http://sarastalla.com/"]Sara Stalla[/a]. Art direction by [a className:"team-link" href:"https://www.andrewsass.com/"]Andrew Sass[/a].
 
 ## Friends of Parametric Press
 
-We thank Andrew Odewahn and O’Reilly Media for making a donation that made Issue 02 possible; all the authors who stuck with us through creating this experimental first issue; NO NECK LOVES YOU for providing the diamond illustration used throughout the issue; and Jeffrey Heer, Christian Frisson, Matt Daniels, and Ilya Kreymer for their advice, guidance, and feedback.
+This issue was made possible through a donation from O'Reilly Media. Additional funding provided by Convex Design. The digital archives are made available with assistance from Ilya Kramer at Webrecorder.
 
 
 ## Contact
 
-Want to get in touch? Send us an email at **[a href:"mailto:editors@parametric.press"]editors@parametric.press[/a]**.
+Want to get in touch? Send us an email at [a href:"mailto:editors@parametric.press"]editors@parametric.press[/a].
+
+
 
 [/LargeAside]
+[/desktop]
+
+# A Note from the Editors
 
 [LedeA]
-The climate is changing and we're running out of time to avoid irrecoverable damage.
-[/LedeA]
-
-[br/]
-
-It's clear that we're in trouble, yet instead of coming together as people to protect the planet for future generations, we find ourselves in the midst of stark division, led by politicians some of whom refuse to acknowledge that a problem even exists. 
+The climate is changing and we're running out of time to avoid irrecoverable damage. It's clear that we're in trouble, yet instead of coming together as people to protect the planet for future generations, we find ourselves in the midst of stark division, led by politicians some of whom refuse to acknowledge that a problem even exists.
 
 For our part, as an open-source experiment in interactive publishing, we are doing what we can to make clear a problem that is exacerbated by its size, its technicality, and its apparent distance from our everyday lives. To create this second issue we invited writers to produce new works of interactive non-fiction that utilize data and graphics to tell highly visual stories that are as native to the web as the JPEG.
 
-The articles explore the gamut of past, present, and future, exploring not only what has happened (and is happening) but also what should happen, and what we, as citizens should do to realize that future. In this issue you will find a personalized history of Earth's CO2 record, a close look at disturbances in the floodplains in the Mekong Delta, an analysis of how Netflix and other digital streaming services impact the environment, along with writing on potential carbon sequestration methods and an exploration of the corporations that are most responsible for getting us to where we are today. 
+The articles explore the gamut of past, present, and future, exploring not only what has happened (and is happening) but also what should happen, and what we, as citizens should do to realize that future. In this issue you will find a personalized history of Earth's CO2 record, a close look at disturbances in the floodplains in the Mekong Delta, an analysis of how Netflix and other digital streaming services impact the environment, along with writing on potential carbon sequestration methods and an exploration of the corporations that are most responsible for getting us to where we are today.
 
-While it is a difficult topic, we hope that you walk away from this issue feeling more informed, more prepared, and more equipped to affect positive change. 
+While it is a difficult topic, we hope that you walk away from this issue feeling more informed, more prepared, and more equipped to affect positive change.
 
-*Your Parametric Press Editors,*
-[br/]
-*Matthew Conlen, Fred Hohman, Sara Stalla*
+Your Parametric Press Editors,[br/]
+Matthew Conlen, Fred Hohman, Sara Stalla
+
+[/LedeA]
 
 
+
+[mobile]
+[LargeAside]
+
+## Team
+
+Edited by [a className:"team-link" href:"https://mathisonian.com/"]Matthew Conlen[/a], [a className:"team-link" href:"https://fredhohman.com/"]Fred Hohman[/a], and [a className:"team-link" href:"http://sarastalla.com/"]Sara Stalla[/a]. Art direction by [a className:"team-link" href:"https://www.andrewsass.com/"]Andrew Sass[/a].
+
+## Friends of Parametric Press
+
+This issue was made possible through a donation from O'Reilly Media. Additional funding provided by Convex Design. The digital archives are made available with assistance from Ilya Kramer at Webrecorder.
+
+
+## Contact
+
+Want to get in touch? Send us an email at [a href:"mailto:editors@parametric.press"]editors@parametric.press[/a].
+
+
+
+[/LargeAside]
+[/mobile]
 
 // [NextArticle slug:parametricSlug fullWidth:true /]
 
