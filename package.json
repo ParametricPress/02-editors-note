@@ -20,7 +20,7 @@
   "dependencies": {
     "idyll": "^4.0.7",
     "idyll-d3-component": "^2.0.0",
-    "parametric-components": "^2.1.33",
-    "parametric-styles": "^2.2.24"
+    "parametric-components": "^2.1.34",
+    "parametric-styles": "^2.2.25"
   }
 }
