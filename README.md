@@ -1,6 +1,6 @@
 # Editors' Note for Issue 02
 
-https://preview.parametric.press/issue-02/editors-note/
+https://parametric.press/issue-02/editors-note/
 
 ## Local Setup
 
