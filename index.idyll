@@ -1,7 +1,7 @@
 [meta title:"Editors' Note" description:"Editors' Note for Parametric Press: The Climate Issue"
-  shareImageUrl:"https://parametric.press/issue-02/tk-article-slug/static/images/share.png"
-  shareImageWidth:"880"
-  shareImageHeight:"440" /]
+  shareImageUrl:"https://parametric.press/issue-02/editors-note/static/images/share.png"
+  shareImageWidth:"1000"
+  shareImageHeight:"500" /]
 
 [var name:"parametricSlug" value:"editors-note" /]
 
@@ -86,4 +86,4 @@ Want to get in touch? Send us an email at [a href:"mailto:editors@parametric.pre
 [Footer fullWidth:true /]
 
 // Uncomment before pub
-// [Analytics google:"UA-139053456-1" tag:parametricSlug /]
+[Analytics google:"UA-139053456-1" tag:parametricSlug /]
