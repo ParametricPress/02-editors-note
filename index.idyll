@@ -1,5 +1,5 @@
 [meta title:"Editors' Note" description:"Editors' Note for Parametric Press: The Climate Issue"
-  shareImageUrl:"https://parametric.press/issue-02/tk-article-slug/static/images/share.png"
+  shareImageUrl:"https://parametric.press/issue-02/editors-note/static/images/share.png"
   shareImageWidth:"880"
   shareImageHeight:"440" /]
 
@@ -30,9 +30,11 @@
 
 Edited by [a className:"hidden-link" href:"https://mathisonian.com/"]Matthew Conlen[/a], [a className:"hidden-link" href:"https://fredhohman.com/"]Fred Hohman[/a], and [a className:"hidden-link" href:"http://sarastalla.com/"]Sara Stalla[/a]. Art direction by [a className:"hidden-link" href:"https://www.andrewsass.com/"]Andrew Sass[/a].
 
-## Friends of Parametric
+## Friends of the Press
 
-This issue was made possible through a donation from O'Reilly Media. Additional funding provided by Convex Design. The digital archives are made available with assistance from Ilya Kramer at Webrecorder.
+This issue was made possible through a donation from [a className:"hidden-link" href:"https://www.oreilly.com/"]O'Reilly Media[/a]. Additional funding provided by [a className:"hidden-link" href:"https://convex.design/"]Convex Design[/a]. The digital archives are made possible with assistance from [a className:"hidden-link" href:"https://webrecorder.net/"]Ilya Kramer at Webrecorder[/a]. Thanks to [a className:"hidden-link" href:"https://carbonplan.org/"]Jeremy Freeman of carbonplan[/a] for providing scientific guidance.
+
+Special thanks to everyone who gave feedback on early drafts, including Alan Tan, Deep Ganguli, Dominik Moritz, Dragan Espenschied, Jane Hoffswell, Jeffrey Heer, Jonathan Dinu, Kate LaRue, Matt Daniels, Megan Vo, Omar Shehata, Scott Davidoff, Walt Hickey, and Younghoon Kim.
 
 ## Contact
 
@@ -44,13 +46,13 @@ Want to get in touch? Send us an email at [a href:"mailto:editors@parametric.pre
 # A Note from the Editors
 
 [LedeA]
-The climate is changing and we're running out of time to avoid irrecoverable damage. It's clear that we're in trouble, yet instead of coming together as people to protect the planet for future generations, we find ourselves in the midst of stark division, led by politicians some of whom refuse to acknowledge that a problem even exists.
+[a className:"hidden-link" href:"https://climate.nasa.gov/"]The climate is changing and we're running out of time to avoid irrevocable damage[/a]. It's clear that we're in trouble, but instead of coming together to protect the planet for future generations, we find ourselves in the midst of stark division, led by politicians who refuse to acknowledge that a problem even exists.
 
-For our part, as an open-source experiment in interactive publishing, we are doing what we can to make clear a problem that is exacerbated by its size, its technicality, and its apparent distance from our everyday lives. To create this second issue we invited writers to produce new works of interactive non-fiction that utilize data and graphics to tell highly visual stories that are as native to the web as the JPEG.
+For our part, as an [a className:"hidden-link" href:"https://github.com/parametricpress/"]open-source experiment[/a] in [a className:"hidden-link" href:"https://distill.pub/2020/communicating-with-interactive-articles/"]interactive[/a] [a className:"hidden-link" href:"https://idyll-lang.org"]publishing[/a], we are doing what we can to clarify a problem that is exacerbated by its size, its technicality, and its apparent distance from our everyday lives. To create this second issue, we invited writers to produce new works of interactive non-fiction that utilize data and graphics to tell highly visual stories that are [a className:"hidden-link" href:"https://parametric.press/issue-01/unraveling-the-jpeg/"]as native to the web as the JPEG[/a].
 
-The articles explore the gamut of past, present, and future, exploring not only what has happened (and is happening) but also what should happen, and what we, as citizens should do to realize that future. In this issue you will find [a className:"hidden-link" href:"https://mathisonian.com/"]a personalized history of Earth's CO2 record[/a], [a className:"hidden-link" href:"https://mathisonian.com/"]a close look at disturbances in the floodplains in the Mekong Delta[/a], [a className:"hidden-link" href:"https://mathisonian.com/"]an analysis of how Netflix and other digital streaming services impact the environment[/a], along with [a className:"hidden-link" href:"https://mathisonian.com/"]writing on potential carbon sequestration methods[/a] and [a className:"hidden-link" href:"https://mathisonian.com/"]an exploration of the corporations that are most responsible for getting us to where we are today[/a].
+The articles explore the gamut of our climate’s past, present, and future, exploring not only what has happened (and is happening) but also what should happen, and what we, as citizens should do to realize that future. In this issue you will find [a className:"hidden-link" href:"/issue-02/carbon-history/"]a personalized history of Earth's CO2 record[/a], [a className:"hidden-link" href:"/issue-02/sinking-delta/"]a close look at disturbances in the floodplains in the Mekong Delta[/a], [a className:"hidden-link" href:"/issue-02/streaming/"]an analysis of how YouTube and other digital streaming services impact the environment[/a], along with [a className:"hidden-link" href:"/issue-02/algae/"]critiques on potential carbon sequestration methods[/a] and [a className:"hidden-link" href:"/issue-02/corporations/"]an exploration of the corporations that are most responsible for getting us to where we are today[/a].
 
-While it is a difficult topic, we hope that you walk away from this issue feeling more informed, more prepared, and more equipped to affect positive change.
+While it is a difficult topic, we hope that you walk away from this issue feeling more informed, more prepared, and more equipped to effect positive change.
 
 Your Parametric Press Editors,[br/]
 Matthew Conlen, Fred Hohman, Sara Stalla
@@ -66,9 +68,11 @@ Matthew Conlen, Fred Hohman, Sara Stalla
 
 Edited by [a className:"hidden-link" href:"https://mathisonian.com/"]Matthew Conlen[/a], [a className:"hidden-link" href:"https://fredhohman.com/"]Fred Hohman[/a], and [a className:"hidden-link" href:"http://sarastalla.com/"]Sara Stalla[/a]. Art direction by [a className:"hidden-link" href:"https://www.andrewsass.com/"]Andrew Sass[/a].
 
-## Friends of Parametric Press
+## Friends of the Press
 
-This issue was made possible through a donation from O'Reilly Media. Additional funding provided by Convex Design. The digital archives are made available with assistance from Ilya Kramer at Webrecorder.
+This issue was made possible through a donation from [a className:"hidden-link" href:"https://www.oreilly.com/"]O'Reilly Media[/a]. Additional funding provided by [a className:"hidden-link" href:"https://convex.design/"]Convex Design[/a]. The digital archives are made possible with assistance from [a className:"hidden-link" href:"https://webrecorder.net/"]Ilya Kramer at Webrecorder[/a]. Thanks to [a className:"hidden-link" href:"https://carbonplan.org/"]Jeremy Freeman of carbonplan[/a] for providing scientific guidance.
+
+Special thanks to everyone who gave feedback on early drafts, including Alan Tan, Deep Ganguli, Dominik Moritz, Dragan Espenschied, Jane Hoffswell, Jeffrey Heer, Jonathan Dinu, Kate LaRue, Matt Daniels, Megan Vo, Omar Shehata, Scott Davidoff, Walt Hickey, and Younghoon Kim.
 
 ## Contact
 
@@ -82,4 +86,4 @@ Want to get in touch? Send us an email at [a href:"mailto:editors@parametric.pre
 [Footer fullWidth:true /]
 
 // Uncomment before pub
-// [Analytics google:"UA-139053456-1" tag:parametricSlug /]
+[Analytics google:"UA-139053456-1" tag:parametricSlug /]

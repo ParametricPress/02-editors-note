@@ -117,6 +117,9 @@ h2, h3, h4, h6 {
   color: #D8FFA2;
 }
 
+.parametric-nav-links a:first-of-type {
+  text-decoration: underline;
+}
 
 @media all and (max-width: 1100px) {
   .desktop {
