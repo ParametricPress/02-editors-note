@@ -7,22 +7,6 @@
 
 [Nav fullWidth:true /]
 
-// [Header
-//   title:`["Your Life", "in CO₂"]`
-//   longTitle:`["Your Life in", "Carbon Dioxide"]`
-//   date:"October 2020"
-//   dek:"Why we're living through an extraordinary time."
-//   fullWidth:true
-//   authors:`[{
-//     name: "Aatish Bhatia",
-//     role: "author",
-//     url: "https://aatishb.com/"
-//   }]`
-//   doi:"https://doi.org/TK"
-//   archive:`'https://parametric-press-archives.s3.amazonaws.com/issue-02/' + parametricSlug + '.warc.gz'`
-//   source:`"https://github.com/ParametricPress/02-" + parametricSlug `
-// /]
-
 [desktop]
 [LargeAside]
 
