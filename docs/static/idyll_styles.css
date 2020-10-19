@@ -2469,6 +2469,14 @@ body {
   font-family: 'Graphik Web';
 }
 
+.idyll-text-container p a.classy-link, aside a.classy-link, a.classy-link {
+  color: #adadad;
+  text-decoration: underline;
+}
+
+.idyll-text-container p a.classy-link:hover, aside a.classy-link:hover, a.classy-link:hover {
+  color: #D8FFA2;
+}
 
 .idyll-text-container {
   max-width: 640px;
